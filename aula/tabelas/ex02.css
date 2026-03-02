@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#titulo {
+    color: rgb(255, 255, 255);
+}
+
+#temas {
+    background-color: rgb(243, 243, 243);
+}
+
+th, td {
+    padding: 10px;
+}
+
+thead {
+    background-color: rgb(158, 223, 114);
+}
+
+#genero {
+    background-color: rgb(235, 218, 122);
+}
+
+#texto {
+    background-color: rgb(243, 243, 243);
+}
+
+#hover:hover {
+   background-color: #99cbec;
+    transition: background-color 0.2 ease; 
+}
